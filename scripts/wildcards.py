@@ -66,7 +66,7 @@ class WildcardsScript(scripts.Script):
                 )
                 p.all_negative_prompts[i] = prompt
 
-            if original_prompt != p.all_negative_prompts[0]:
+            if negative_prompt != p.all_negative_prompts[0]:
                 p.extra_generation_params["Wildcard negative prompt"] = negative_prompt
 
 
