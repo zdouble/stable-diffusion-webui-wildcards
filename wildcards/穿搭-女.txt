@@ -48,3 +48,239 @@ tulle skirt, graphic tee, moto jacket, combat boots
 high-waisted leggings, sports bra, oversized hoodie, running shoes
 smock dress, patterned tights, heeled oxfords
 wide-brim hat, bohemian maxi dress, layered necklaces, flat sandals
+elven dress, leaf-patterned cloak, leather boots
+leather armor, chainmail leggings, steel greaves
+mage robe, wizard hat, enchanted amulet
+pirate captain outfit, tricorn hat, knee-high boots
+woodland nymph tunic, floral wreath, barefoot sandals
+bard blouse, colorful scarf, laced-up boots
+armored corset, battle skirt, gauntlets
+mermaid tail, seashell top, pearl necklace
+witch dress, pointy hat, lace-up ankle boots
+nomad wraps, desert scarf, soft leather sandals
+celestial gown, starry cape, moonstone tiara
+dragon scale armor, winged helmet, clawed gloves
+vampire countess dress, lace choker, velvet gloves
+fairy dress, gossamer wings, flower sandals
+steampunk corset, bustle skirt, knee-high lace-up boots
+healer's robe, hooded mantle, leather pouch
+knight's plate armor, tabard, armored boots
+archer's tunic, bracer, quiver, leather boots
+sorceress gown, enchanted staff, crystal tiara
+necromancer robe, skull amulet, dark hood
+forest ranger outfit, leather gloves, soft-soled boots
+enchanted princess dress, tiara, glass slippers
+samurai armor, hakama pants, tabi socks, geta sandals
+ice mage attire, fur-lined cloak, icy staff
+dwarven smith apron, leather pants, sturdy boots
+assassin's leather gear, hood, hidden blade gauntlets
+angelic gown, golden halo, feathered wings
+demoness bodysuit, horned headpiece, bat wings
+warrior queen armor, fur-lined cape, jeweled crown
+mystic seer robe, rune-etched amulet, crystal ball
+gladiator outfit, leather sandals, protective vambraces
+dark elf tunic, dual-wield daggers, shadowy cloak
+shapeshifter attire, animal-inspired accessories, feathered necklace
+elemental mage robe, sash representing elements, elemental staff
+royal guard uniform, plumed helmet, decorative armor
+gypsy-inspired dress, coin belt, ankle bells
+high priestess gown, gemstone encrusted headpiece, silk sash
+alchemist's robe, potion belt, magical tome
+valkyrie armor, winged helmet, fur-trimmed boots
+phoenix-inspired gown, feathered shoulders, fiery headdress
+druid robes, wooden staff, nature-inspired accessories
+swashbuckler's coat, ruffled shirt, knee-high leather boots
+shadow dancer outfit, half-mask, soft-soled slippers
+beast tamer attire, whip, animal-themed accessories
+spirit caller robes, spirit beads, ethereal cloak
+royal jester costume, tri-point hat, colorful tights
+spellblade attire, enchanted sword, spellcasting gauntlets
+futuristic cyber mage suit, holographic projections, techno-staff
+time traveler's outfit, clockwork accessories, pocket watch
+astral navigator's uniform, star chart, celestial compass
+Warm layers, waterproof jacket, hiking boots, wool socks, sun protection, hat
+Swimsuit, sunglasses, sun hat, lightweight cover-up, sandals, sunscreen
+Casual clothing, comfortable shoes, sun hat, sunglasses, light sweater, sunscreen
+Comfortable layers, walking shoes, light jacket, hat, sunglasses, water-resistant outerwear
+Modest attire, comfortable shoes, sun hat, sunglasses, light layers, sunscreen
+Waterproof shoes, quick-drying clothes, light jacket, hat, sunglasses, insect repellent
+Lightweight clothes, sun hat, sunglasses, sunscreen, comfortable shoes, headscarf
+Windbreaker, comfortable shoes, layered clothing, hat, sunglasses, sunscreen
+Warm layers, waterproof boots, gloves, hat, sunglasses, windproof jacket
+Lightweight clothes, hiking boots, insect repellent, hat, sunglasses, sunscreen
+Comfortable clothing, sturdy shoes, hat, sunscreen, insect repellent, light jacket
+Swimsuit, water shoes, towel, sunscreen, sunglasses, light cover-up
+Casual attire, comfortable shoes, light sweater, sun hat, sunglasses, sunscreen
+Sturdy shoes, long pants, lightweight layers, hat, sunscreen, insect repellent
+Lightweight clothes, hiking boots, sun hat, sunglasses, sunscreen, insect repellent
+Comfortable layers, hiking boots, hat, sunglasses, sunscreen, water-resistant jacket
+Insulated clothing, waterproof boots, gloves, hat, sunglasses, thermal layers
+Swimsuit, sunscreen, sunglasses, sun hat, sandals, lightweight cover-up
+Lightweight clothing, comfortable shoes, sun hat, sunglasses, light jacket, sunscreen
+Sturdy shoes, quick-drying clothes, hat, sunglasses, sunscreen, breathable layers
+Comfortable clothing, sturdy shoes, flashlight, helmet, gloves, water-resistant outerwear
+Lightweight clothes, safari hat, sunglasses, sunscreen, binoculars, comfortable shoes
+Lightweight clothes, water shoes, sunscreen, hat, sunglasses, insect repellent
+Waterproof boots, warm layers, windproof jacket, hat, gloves, scarf
+Sturdy shoes, lightweight clothing, hat, sunglasses, sunscreen, water-resistant jacket
+Comfortable layers, sturdy shoes, hat, sunscreen, insect repellent, rain jacket
+Windproof jacket, comfortable shoes, warm layers, hat, sunglasses, sunscreen
+Modest attire, comfortable shoes, hat, sunscreen, sunglasses, lightweight layers
+Sturdy shoes, breathable clothing, hat, sunglasses, sunscreen, water-resistant outerwear
+Warm layers, waterproof boots, hat, sunscreen, sunglasses, walking stick
+Lightweight clothes, hiking boots, insect repellent, hat, sunglasses, sunscreen
+Comfortable clothes, walking shoes, sun hat, sunglasses, light jacket, sunscreen
+Waterproof shoes, lightweight layers, hat, sunglasses, sunscreen, insect repellent
+Hiking boots, lightweight clothing, sun hat, sunglasses, sunscreen, insect repellent
+Comfortable shoes, long pants, light layers, hat, sunglasses, insect repellent
+Swimsuit, water shoes, quick-dry clothes, sunscreen, sunglasses, hat
+Lightweight clothes, sun hat, sunglasses, sunscreen, comfortable shoes, water bottle
+Modest attire, comfortable shoes, sun hat, sunglasses, light layers, sunscreen
+Comfortable clothing, walking shoes, light jacket, hat, sunglasses, sunscreen
+Swimsuit, sandals, sun hat, sunglasses, sunscreen, lightweight cover-up
+Sturdy shoes, waterproof jacket, warm layers, hat, gloves, scarf
+Warm layers, waterproof boots, gloves, hat, sunglasses, thermal clothing
+Comfortable clothes, sun hat, sunglasses, sunscreen, sturdy shoes, lightweight layers
+Sturdy shoes, quick-dry clothes, hat, sunglasses, sunscreen, water-resistant jacket
+Swimsuit, snorkel gear, water shoes, sunscreen, sunglasses, quick-dry clothing
+Comfortable clothing, walking shoes, hat, sunglasses, sunscreen, lightweight jacket
+Lightweight clothes, comfortable shoes, sun hat, sunglasses, sunscreen, reusable shopping bag
+Modest attire, comfortable shoes, sun hat, sunglasses, light layers, sunscreen
+Sturdy shoes, quick-dry clothing, hat, sunglasses, sunscreen, water-resistant outerwear
+Swordsman, sword, shield, armor, leather boots, gauntlets, chainmail
+Wizard, staff, spellbook, robe, amulet, pointy hat, magic potions
+Rogue, daggers, lock picks, leather armor, cloak, stealth, poison vials
+Ranger, bow and arrows, animal companion, leather armor, camouflage, tracking skills, survival gear
+Cleric, holy symbol, mace, chainmail, healing spells, prayer book, divine intervention
+Bard, musical instrument, charisma, light armor, storytelling, charm spells, supportive magic
+Alchemist, alchemy lab, potion bottles, scrolls, chemical ingredients, explosive concoctions, transmutation
+Summoner, summoning circles, magical contracts, bound creatures, enchanted talismans, control spells, arcane knowledge
+Blacksmith, forge, hammer, anvil, metal ingots, armor crafting, weapon forging, artisan tools
+Assassin, hidden blades, poison, disguise, stealth, infiltration, precision, shadow manipulation
+Necromancer, dark magic, undead minions, skeletal remains, cursed artifacts, reanimation, deathly aura
+Tinkerer, mechanical gadgets, gears, blueprints, clockwork creations, steam-powered devices, engineering skills
+Priest, divine magic, sacred texts, ceremonial robes, incense, healing spells, blessing rituals
+Druid, nature magic, animal shapeshifting, plant control, elemental spells, staff, leather armor
+Monk, martial arts, unarmed combat, meditation, agility, staff, simple clothing, inner strength
+Berserker, dual-wielding axes, frenzy, animal pelts, battle cries, immense strength, unstoppable rage
+Paladin, holy sword, divine smite, plate armor, shield, aura of protection, righteous conviction
+Warrior, melee weapons, heavy armor, battle tactics, brute force, resilience, leadership
+Spellsword, enchanted weapons, magic-infused attacks, elemental mastery, battle mage, arcane warrior, versatile combatant
+Ninja, shuriken, kusarigama, ninjutsu, stealth, acrobatics, smoke bombs, shadow techniques
+Sailor, navigation, ship, cutlass, sailing knowledge, knots, sea shanties, ocean exploration
+Merchant, gold coins, trade goods, negotiation skills, travel, market savvy, resourcefulness
+Adventurer, versatile equipment, broad skillset, treasure hunter, dungeon delver, daring explorer, jack-of-all-trades
+Beastmaster, animal companions, bond with nature, animal handling, tracking, wilderness survival, empathetic connection
+Occultist, forbidden knowledge, eldritch artifacts, dark rituals, ancient texts, pact with otherworldly beings, arcane secrets
+Illusionist, illusions, trickery, deception, light manipulation, smoke and mirrors, misdirection, phantasmal spells
+Arcane Archer, enchanted arrows, precision, longbow, magical attacks, elemental arrows, ranged combat
+Twinblade, dual-wielding swords, agility, quick strikes, finesse, evasion, whirlwind attacks, speed
+Geomancer, earth magic, environmental manipulation, terrain control, elemental mastery, ley lines, harmony with nature
+Pyromancer, fire magic, flame control, heat manipulation, combustion, fiery spells, burning passion
+Cryomancer, ice magic, frost control, cold manipulation, freezing spells, chilling touch, icy demeanor
+Electromancer, lightning magic, electric control, shock spells, storm summoning, electrifying presence
+Shadowdancer, shadow magic, darkness control, stealth, shadowstep, umbral spells, hidden blade
+Runesmith, rune magic, enchanted weapons, glyph crafting, magical inscriptions, ancient symbols, runic power
+Warforged, mechanical body, integrated weapons, durable armor, clockwork enhancements, steam-powered strength
+Dancer, grace, elegance, captivating movements, performance, entrancing dance, combat agility
+Mercenary, hired sword, versatile combat skills, resourcefulness, adaptability, loyalty for coin, professional soldier
+Minstrel, storytelling, music, song, poetry, inspiration, oral tradition, entertainer
+Mageward, magical defense, arcane shields, protective spells, barrier creation, magical guardian, warding runes
+Observer, keen senses, perception, intuition, investigation, insight, deduction, awareness
+Guardian, defensive combat, protection, shielding, self-sacrifice, resolve, unbreakable spirit
+Shapeshifter, transformation, adaptability, camouflage, mimicry, animal forms, fluid identity
+Explorer, cartography, wilderness survival, navigation, discovery, curiosity, daring adventurer
+Tactician, strategy, planning, battlefield control, logistics, cunning, foresight, command
+Alchemical Warrior, combat alchemy, potion-enhanced abilities, transmutation, explosive concoctions, versatile fighter
+Windwalker, air magic, wind control, flight, agility, speed, aerial combat, soaring spirit
+Plainsrunner, animal companions, horseback combat, archery, speed, endurance, nomadic lifestyle
+Ancient Warrior, forgotten martial arts, ancestral weapons, ancient armor, time-worn techniques, legacy of the past
+Ghostbinder, spirit control, necromancy, ghostly allies, spectral manipulation, ethereal magic, communion with the dead
+Aquamancer, water magic, fluid control, water manipulation, hydration, aquatic spells, aquatic combat
+Stoneshaper, earth magic, rock control, terrain manipulation, seismic power, stone constructs, grounded strength
+Herbalist, plant magic, potion brewing, natural remedies, healing salves, botanical knowledge, communion with nature
+Sun Knight, solar magic, light manipulation, radiant power, sunbeam attacks, aura of warmth, shining armor
+Moon Knight, lunar magic, night-time power, moonlight manipulation, shadowy presence, nocturnal combat, crescent blade
+Sand Magician, sand magic, desert control, sandstorm conjuration, arid spells, scorching power, oasis manipulation
+Beastmaster, animal companions, animal communication, empathy, wildlife mastery, feral instincts, animalistic combat
+Floramancer, plant magic, vegetation control, growth manipulation, botanical spells, nature's embrace, photosynthetic power
+Machinist, mechanical magic, clockwork constructs, steam-powered spells, gear manipulation, artifice mastery
+Entomancer, insect control, swarm mastery, creepy-crawlies, venomous bites, infestation, insectoid allies
+Luck Thief, fortune manipulation, probability control, lucky charm, serendipity, chance manipulation, gambler's instincts
+Stormcaster, weather magic, storm control, thunder and lightning, hurricane summoning, tempestuous power, elemental fury
+Galecaller, wind magic, air control, gust manipulation, aerokinesis, zephyr spells, breath of the wind
+Chronomancer, time magic, temporal manipulation, time travel, aging control, future sight, clockwork spells
+Starmancer, celestial magic, starlight manipulation, astral spells, cosmic power, heavenly bodies, constellation control
+Flame Ninja, fire control, pyrokinetic stealth, smoke bombs, blazing speed, fire shuriken, ember cloak
+Frost Ninja, ice control, cryokinetic stealth, freezing touch, frosty speed, ice shuriken, chilling presence
+Storm Ninja, lightning control, electrokinetic stealth, shock touch, electric speed, thunder shuriken, charged presence
+Illustrate a friendly robot, showcasing its advanced technology, humanoid features, and approachable demeanor
+Create an image of a bird-like humanoid, with wings, feathers, and the ability to soar through the sky
+Design a whimsical elf character, with pointed ears, magical abilities, and a connection to nature
+Capture a sea-dwelling humanoid, with gills, fins, and an affinity for underwater environments
+Create a depiction of an extraterrestrial being, with unique features, advanced technology, and a sense of cosmic exploration
+Illustrate a courageous knight, clad in armor, wielding a sword, and showcasing their bravery and chivalry
+Design a fire-breathing dragon, with scales, wings, and a fierce yet majestic presence
+Create an image of a cyborg warrior, with integrated technology, enhanced abilities, and a futuristic aesthetic
+Illustrate a resident of a fairy realm, with delicate wings, magical powers, and a sense of enchantment and whimsy
+Capture a timeless vampire, with fangs, supernatural abilities, and an air of mystery and allure
+Design a sorcerer who can communicate with animals, showcasing their magical talents and deep connection to the natural world
+Create an image of a giant creature, towering over its surroundings, with immense strength and presence
+Illustrate a deity from Greek mythology, with divine powers, regal attire, and a sense of myth and legend
+Capture a superhero, using their extraordinary abilities and determination to protect and defend others
+Design an ancient humanoid, with unique features and abilities that showcase their connection to a long-lost civilization
+Create an image of a stealthy ninja, with exceptional agility, martial arts skills, and a sense of intrigue and mystique
+Illustrate a clever fox spirit, with shape-shifting abilities, cunning, and a mysterious nature
+Capture a group of undead creatures, with decaying features, supernatural powers, and a chilling presence
+Design a time-traveling adventurer, with futuristic gadgets, unique clothing, and a sense of curiosity and exploration
+Illustrate a magical creature, with wisdom, power, and the ability to help or hinder those it encounters
+Illustrate a desert gnome, with sand-colored skin, adapted to arid environments, and skilled in desert survival
+Create an image of a centaur galloping through grasslands, with the upper body of a human and the lower body of a horse
+Design a mischievous imp, with small horns, a playful demeanor, and a penchant for causing trouble
+Capture a mechanical insect, with intricate gears, metal wings, and a futuristic steampunk aesthetic
+Illustrate a dryad, a tree spirit with a connection to nature and the ability to blend seamlessly into the forest
+Create an image of a werewolf transformation, showcasing the dramatic shift from human to beast under the full moon
+Design a dark necromancer, with the power to control shadows, summon the undead, and wield dark magic
+Capture a technomancer, a magic user skilled in manipulating technology and combining it with magical abilities
+Illustrate an angel residing in a celestial garden, with ethereal wings, a peaceful presence, and a divine aura
+Create an image of a two-headed ogre, with brute strength, a fearsome appearance, and the ability to strike fear in their enemies
+Design a guardian elemental, a powerful being embodying the forces of nature and sworn to protect sacred sites
+Illustrate an invisible being, with only faint traces of their presence, creating a sense of mystery and uncertainty
+Capture a gemstone creature, with a crystalline structure, shimmering colors, and a connection to elemental powers
+Create an image of a rebellious android, defying its programming and fighting for its own freedom and independence
+Design a spiritual shaman, with the ability to communicate with spirits, perform rituals, and heal with natural remedies
+Illustrate a stormcaller, a powerful mage with the ability to control lightning and summon tempests
+Capture a dimension traveler, a being with the ability to traverse alternate realities and manipulate the fabric of space
+Create an image of a visionary from the future, with advanced knowledge, unique attire, and a prophetic message
+Design a psychic dreamer, with the ability to peer into the realm of dreams and gain insight from their visions
+Illustrate a cosmic guardian, a celestial being tasked with maintaining balance and order in the universe
+Create an image of a bionic animal, with mechanical enhancements, advanced abilities, and a futuristic appearance
+Design a warrior of light, with radiant armor, wielding the power of light to vanquish darkness and evil
+Capture a scene from a mysterious masked ball, with elegant attire, hidden identities, and a sense of intrigue
+Illustrate a volcanic spirit, with a body of molten rock, the ability to control lava, and a connection to the earth's fiery core
+Create an image of a chronomancer, a time-manipulating mage with the power to alter the flow of time and peer into the past and future
+Design a virtual reality avatar, a digital representation of a user within a virtual world, showcasing their unique appearance and abilities
+Illustrate an ice queen, with the power to control ice and snow, creating a realm of frozen beauty and chilling elegance
+Capture a resident of a miniature world, with tiny features, intricate details, and a sense of wonder and exploration
+Create an image of a destructive demon, with fearsome features, dark powers, and a thirst for chaos and ruin
+Design a humanoid plant, with features resembling flowers, leaves, and vines, and a deep connection to the earth and nature
+Illustrate a guardian spirit beast, a powerful mythical creature that protects sacred places and serves as a loyal companion
+Capture a painter with a magical brush, able to bring their creations to life and imbue them with unique abilities
+Create an image of a weightless dancer, defying gravity as they gracefully move through the air
+Design a character from an animated world, with exaggerated features, vibrant colors, and a unique style
+Illustrate an aerialist with the ability to control the wind, performing breathtaking feats of acrobatics in the sky
+Capture an invisible person, with their presence only hinted at by their surroundings, evoking a sense of mystery and intrigue
+Create an image of a cyborg ninja, with advanced technology, enhanced agility, and the skills of a master assassin
+Design a charismatic figure from the realm of dreams, with the ability to inspire and captivate those they encounte
+Illustrate a mutant leader, with unique powers, rallying their fellow mutants to stand up for their rights and fight for acceptance
+Create an image of a ghost ship captain, with a spectral appearance, commanding a crew of spirits and navigating the mysterious seas
+Design a moon goddess, with lunar-inspired attire, the power to control the tides, and a connection to the night sky
+Illustrate a gravity controller, with the ability to manipulate gravitational forces, bending the laws of physics to their will
+Capture a fusion of machine and living creature, with integrated technology, organic components, and a striking visual blend of the two
+Create an image of an enchanting mermaid, with a shimmering tail, captivating beauty, and a siren's song that lures sailors to their doom
+Design a being within a magical mirror, with the power to show reflections of the past, present, and future or reveal hidden truths
+Illustrate a thunder god, wielding the power of lightning and storms, commanding the skies with a booming voice and a fearsome presence
+Capture a sage with infinite knowledge, their wisdom granting them insight into the mysteries of the universe and the secrets of time
+Create an image of an alchemist with a magical tome, using ancient knowledge to perform miraculous feats of transmutation and creation
+Design a sand master, with the power to control sandstorms, manipulate desert landscapes, and harness the might of the scorching sun
+Illustrate a guardian of giant trees, a powerful being that protects ancient forests and nurtures the growth of new life
